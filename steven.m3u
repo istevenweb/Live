@@ -107,10 +107,22 @@ http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 http://uc6.i-cable.com/live_freedirect/opentvhd002_h.live/playlist.m3u8
 #EXTINF:-1 group-title="日韩" tvg-logo="https://i.imgur.com/qVkxGJ3.jpg",KBC(SBS 光州)
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
+#EXTINF:-1 tvg-id="GSMyShop.kr" tvg-logo="https://i.imgur.com/jB4fUid.png" group-title="Shop",GS My Shop (1080p)
+https://gstv-myshop.gsshop.com/myshop_hd/myshop_hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GSShop.kr" tvg-logo="https://i.imgur.com/S6tp6Ly.png" group-title="Shop",GS Shop (1080p)
+https://gstv-gsshop.gsshop.com/gsshop_hd/gsshop_hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GugakTV.kr" tvg-logo="https://i.imgur.com/Ey7Htm8.png" group-title="News",GugakTV 국악방송 (1080p)
+http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="GugbangTV.kr" tvg-logo="https://i.imgur.com/f1tz5fg.png" group-title="Undefined",Gugbang TV (1080p) [Not 24/7]
+http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+#EXTINF:-1 tvg-id="GustoTV.us" tvg-logo="https://i.imgur.com/swUX3hQ.png" group-title="Cooking",Gusto TV (1080p)
+https://d3cajslujfq92p.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="日韩" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
 #EXTINF:-1 group-title="日韩" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png",Arirang
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KIIIDT1.us" tvg-logo="https://i.imgur.com/svfSv3O.jpg" group-title="Undefined",ABC 3 Corpus Christi TX (KIII) (1080p)
+https://livevideo01.kiiitv.com/hls/live/2017378/newscasts/live.m3u8
 #EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/61555d61ab15d.jpg",NBC NEWS FHD
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 #EXTINF:-1 group-title="英语新闻" tvg-logo="https://www.hualigs.cn/image/615568670b819.jpg",NHKWorld FHD
