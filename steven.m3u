@@ -1,143 +1,259 @@
 #EXTM3U
-#EXTINF:-1 ,CCTV1
-http://39.134.115.163:8080/PLTV/88888910/224/3221225642/index.m3u8
-#EXTINF:-1 ,CCTV2
+#EXTINF:-1 ,Unknown_5
+http://tc-tct.douyucdn2.cn/dyliveflv1a/3637778raLSXdOdu.flv?wsAuth=615bfc3b52513d483ba6876b2917e01e&token=cpn-androidmpro-0-3637778-8c089871434b934423133b85b75d8ec8e9960f31fd6420a6&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play2
+#EXTINF:-1 ,Unknown_9
+http://tc-tct.douyucdn2.cn/dyliveflv1/20415rnWbjg6Ex1K_2000.flv?wsAuth=1d42cd9ba0cdaa444d4a0d095eb68406&token=cpn-androidmpro-0-20415-b6774b3b3249db176ef63f7ee5ad1de008370a0af1df848d&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+#EXTINF:-1 ,Unknown_12
+http://tc-tct.douyucdn2.cn/dyliveflv1/96577rcmueDZlUT0_2000.flv?wsAuth=d46480c2e7b2b00564b611af1ce8cee2&token=cpn-androidmpro-0-96577-281bf88a9ebb9addc96992db0f263e050807927f35f7dddc&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play1
+#EXTINF:-1 ,Unknown_20
+http://tc-tct.douyucdn2.cn/dyliveflv3a/4837387rlw2Uy8Vt.flv?wsAuth=1e9c5a0d3893d184175c406e43fcb36d&token=cpn-androidmpro-0-4837387-8ad81bcd9db6237c0d843c5ffdbf022b263ca278343adcc5&logo=0&expire=0&did=d010b07dcb997ada9934081c873542f0&origin=tct&vhost=play4
+#EXTINF:-1 ,Unknown_30
+https://cn-gdst-cm-01-08.bilivideo.com/live-bvc/951005/live_290515513_3522421.m3u8?expires=1662522333&len=0&oi=3746136595&pt=h5&qn=10000&trid=10033af39dadd81c4e9487d0bdd5f742479e&sigparams=cdn,expires,len,oi,pt,qn,trid&cdn=cn-gotcha01&sign=ef870d31819dd10aa54c6ea4d3a7ff01&sk=cbe36824f5a471e830caa8f6c0705f0b&p2p_type=0&src=57345&sl=1&free_type=0&sid=cn-gdst-cm-01-08&chash=0&score=16&pp=rtmp&source=one&site=22d644ce20c1883bbe1f3aece8ba1532&order=1
+#EXTINF:-1 ,Unknown_34
+https://gccncc.v.wscdns.com/gc/wgw05_1/index.m3u8
+#EXTINF:-1 ,Unknown_35
+https://gccncc.v.wscdns.com/gc/cntv425-zbzg_1/index.m3u8
+#EXTINF:-1 ,Unknown_36
+https://gcbdc.a.bdydns.com/gc/xwh01_1/index.m3u8
+#EXTINF:-1 ,Unknown_38
+http://gccncc.v.wscdns.com/gc/hkts04_1/index.m3u8
+#EXTINF:-1 ,Unknown_39
+http://gctxyc.liveplay.myqcloud.com/gc/hkts03_1/index.m3u8
+#EXTINF:-1 ,Unknown_46
+https://cn-gdst-cm-01-10.bilivideo.com/live-bvc/650541/live_8244646_5219019.m3u8?cdn=cn-gotcha01&expires=1661498966&len=0&oi=3746136595&pt=h5&qn=10000&trid=10034197b63eb32c42b5a3e81635d07db581&sigparams=cdn,expires,len,oi,pt,qn,trid&sign=fe32239380e10caf2ad76dc93e0be7c2&ptype=0&src=57345&sl=2&source=one&sche=ban&sid=6871&sk=861b1c2a24b60f0fb4bae02858207848&order=4
+#EXTINF:-1 ,Unknown_48
+https://cdn.hklive.tv/xxxx/81/index.m3u8
+#EXTINF:-1 ,Unknown_49
+https://cdn.hklive.tv/xxxx/83/index.m3u8
+#EXTINF:-1 ,Unknown_50
+https://j3.lhlh.app/mv.m3u8
+#EXTINF:-1 ,Unknown_51
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000?zgangd
+#EXTINF:-1 ,Unknown_52
+http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
+#EXTINF:-1 ,Unknown_53
+https://playtv-live.ifeng.com/live/06OLEGEGM4G_tv1.m3u8
+#EXTINF:-1 ,Unknown_54
+https://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1 ,Unknown_55
+http://111.59.189.40:8445/tsfile/live/1022_1.m3u8?zgangd
+#EXTINF:-1 ,Unknown_57
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1 ,Unknown_59
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1 ,Unknown_63
+http://nettvpro.live/hls/lotustv.php?zgangd
+#EXTINF:-1 ,Unknown_64
+https://live.mastvnet.com/lsdream/lY44pmm/2000/live.m3u8
+#EXTINF:-1 ,Unknown_65
+http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
+#EXTINF:-1 ,Unknown_67
+http://61.244.22.4/ch1/ch1.live/master.m3u8
+#EXTINF:-1 ,Unknown_70
+http://61.244.22.4/ch3/ch3.live/playelist.m3u8?zgangd
+#EXTINF:-1 ,Unknown_71
+http://61.244.22.4/ch2/ch2.live/playelist.m3u8
+#EXTINF:-1 ,Unknown_72
+http://61.244.22.4/ch3/ch3.live/chunklist_w1228316132.m3u8
+#EXTINF:-1 ,Unknown_73
+http://61.244.22.4/ch2/ch2.live/index.m3u8?zgangd
+#EXTINF:-1 ,Unknown_74
+http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8?zgangd
+#EXTINF:-1 ,Unknown_75
+http://61.244.22.4/ch2/ch2.live/playelist.m3u8?zgangd
+#EXTINF:-1 ,Unknown_77
+http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
+#EXTINF:-1 ,Unknown_82
+http://live4.tdm.com.mo/ch4/_definst_/sport_ch4.live/playlist.m3u8
+#EXTINF:-1 ,Unknown_104
+http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8
+#EXTINF:-1 ,Unknown_105
+http://39.134.115.163:8080/PLTV/88888910/224/3221225619/index.m3u8
+#EXTINF:-1 ,Unknown_106
 http://39.134.115.163:8080/PLTV/88888910/224/3221225643/index.m3u8
-#EXTINF:-1 ,CCTV3
+#EXTINF:-1 ,Unknown_107
 http://39.134.115.163:8080/PLTV/88888910/224/3221225634/index.m3u8
-#EXTINF:-1 ,CCTV4
-http://39.134.115.163:8080/PLTV/88888910/224/3221225621/index.m3u8
-#EXTINF:-1 ,CCTV5
+#EXTINF:-1 ,Unknown_108
+http://39.134.115.163:8080/PLTV/88888910/224/3221225647/index.m3u8
+#EXTINF:-1 ,Unknown_109
+http://newvideo.dangtutv.cn:8278/CCTVzongyi/playlist.m3u8
+#EXTINF:-1 ,Unknown_110
+http://210.210.155.37/qwr9ew/s/s19/index.m3u8
+#EXTINF:-1 ,Unknown_111
 http://39.134.115.163:8080/PLTV/88888910/224/3221225633/index.m3u8
-#EXTINF:-1 ,CCTV5+
+#EXTINF:-1 ,Unknown_112
+http://39.134.115.163:8080/PLTV/88888910/224/3221225648/index.m3u8
+#EXTINF:-1 ,Unknown_113
+http://39.134.115.163:8080/PLTV/88888910/224/3221225649/index.m3u8
+#EXTINF:-1 ,Unknown_114
 http://39.134.115.163:8080/PLTV/88888910/224/3221225706/index.m3u8
-#EXTINF:-1 ,CCTV6
+#EXTINF:-1 ,Unknown_115
 http://39.134.115.163:8080/PLTV/88888910/224/3221225632/index.m3u8
-#EXTINF:-1 ,CCTV7
+#EXTINF:-1 ,Unknown_116
+http://117.169.120.140:8080/live/cctv-6/.m3u8
+#EXTINF:-1 ,Unknown_118
+http://39.134.115.163:8080/PLTV/88888910/224/3221225624/index.m3u8
+#EXTINF:-1 ,Unknown_119
 http://39.134.115.163:8080/PLTV/88888910/224/3221225644/index.m3u8
-#EXTINF:-1 ,CCTV8
+#EXTINF:-1 ,Unknown_121
 http://39.134.115.163:8080/PLTV/88888910/224/3221225631/index.m3u8
-#EXTINF:-1 ,CCTV9
+#EXTINF:-1 ,Unknown_122
+http://39.134.115.163:8080/PLTV/88888910/224/3221225635/index.m3u8
+#EXTINF:-1 ,Unknown_123
 http://39.134.115.163:8080/PLTV/88888910/224/3221225646/index.m3u8
-#EXTINF:-1 ,CCTV10
+#EXTINF:-1 ,Unknown_124
+http://39.135.138.59:18890/PLTV/88888910/224/3221225626/index.m3u8
+#EXTINF:-1 ,Unknown_126
 http://39.134.115.163:8080/PLTV/88888910/224/3221225636/index.m3u8
-#EXTINF:-1 ,CCTV11
-http://39.134.115.163:8080/PLTV/88888910/224/3221225628/index.m3u8
-#EXTINF:-1 ,CCTV12
-http://39.134.115.163:8080/PLTV/88888910/224/3221225629/index.m3u8
-#EXTINF:-1 ,CCTV14
-http://39.134.115.163:8080/PLTV/88888910/224/3221225639/index.m3u8
-#EXTINF:-1 ,CCTV4k
-http://open.live-web.timetv.cn/live03/cctv4k.m3u8
-#EXTINF:-1 ,纯享4K
-http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1 group-title="电影",爱上4K
-http://111.20.33.93/PLTV/88888893/224/3221226352/index.m3u8
-#EXTINF:-1  tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",CCTV4K
-http://liveop.cctv.cn/hls/4KHD/playlist.m3u8
-#EXTINF:-1 group-title="4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",CCTV4K HDR
-https://p.ggiptv.com/v/4k.m3u8
-#EXTINF:-1 group-title="4K" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4k.png",CCTV4K HDR
-http://ye23.win/iptv/4k.cctv.php
-#EXTINF:-1 group-title="4K",纯享4K
-http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1 group-title="4K",苏州4K
-http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
-#EXTINF:-1 group-title="4K",1MV4K
-http://136.243.42.146:1499
-#EXTINF:-1 group-title="4K",Clarity4K
-https://d3thiix3tzne5u.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="4K",LoveNature4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
-#EXTINF:-1 group-title="韩国" tvg-logo="https://i.imgur.com/qVkxGJ3.jpg",KBC(SBS 光州)
-http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-#EXTINF:-1 group-title="韩国" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png",Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/.m3u8
-#EXTINF:-1 group-title="韩国" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png",Arirang
-http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰资讯
-http://playtv-live.ifeng.com:80/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzhongwen.png",凤凰中文
-http://playtv-live.ifeng.com:80/live/06OLEGEGM4G_tv1.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png",香港HKS
-http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://i.imgur.com/GyM0ORZ.png",TVBJ1
-https://bcovlive-a.akamaihd.net/f23dfe49b06b45d8878b55b4b6909595/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
-#EXTINF:-1 group-title="新闻" tvg-logo="https://i.imgur.com/117rOCy.png",无线新闻
-https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png",有线新闻台
-https://api.leonardpark.dev/live/icable/109
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxiancaijingzixun.png",有线财经资讯台
-https://api.leonardpark.dev/live/icable/108
-#EXTINF:-1 group-title="港澳台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png",有线直播新闻台
-https://api.leonardpark.dev/live/icable/110
-#EXTINF:-1 group-title="新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png",ABC Australia
+#EXTINF:-1 ,Unknown_127
+http://39.135.138.59:18890/PLTV/88888910/224/3221225627/index.m3u8
+#EXTINF:-1 ,Unknown_129
+http://39.135.138.59:18890/PLTV/88888910/224/3221225628/index.m3u8
+#EXTINF:-1 ,Unknown_130
+http://117.169.120.140:8080/live/cctv-11/.m3u8
+#EXTINF:-1 ,Unknown_132
+http://39.134.115.163:8080/PLTV/88888910/224/3221225637/index.m3u8
+#EXTINF:-1 ,Unknown_133
+http://39.135.138.59:18890/PLTV/88888910/224/3221225629/index.m3u8
+#EXTINF:-1 ,Unknown_135
+http://39.134.115.163:8080/PLTV/88888910/224/3221225638/index.m3u8
+#EXTINF:-1 ,Unknown_136
+http://117.169.120.140:8080/live/cctv-13/.m3u8
+#EXTINF:-1 ,Unknown_140
+http://39.135.138.60:18890/PLTV/88888910/224/3221225641/index.m3u8
+#EXTINF:-1 ,Unknown_143
+http://39.135.138.60:18890/TVOD/88888910/224/3221226233/index.m3u8
+#EXTINF:-1 ,Unknown_144
+http://39.135.138.60:18890/TVOD/88888910/224/3221226230/index.m3u8
+#EXTINF:-1 ,Unknown_145
+http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
+#EXTINF:-1 ,Unknown_146
+http://39.135.138.59:18890/PLTV/88888910/224/3221225907/index.m3u8
+#EXTINF:-1 ,Unknown_151
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8
+#EXTINF:-1 ,Unknown_152
+https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8
+#EXTINF:-1 ,Unknown_153
+https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8
+#EXTINF:-1 ,Unknown_154
+https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8
+#EXTINF:-1 ,Unknown_155
+https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8
+#EXTINF:-1 ,Unknown_156
+https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8
+#EXTINF:-1 ,Unknown_157
+https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8
+#EXTINF:-1 ,Unknown_158
+https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
+#EXTINF:-1 ,Unknown_159
+https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8
+#EXTINF:-1 ,Unknown_160
+https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8
+#EXTINF:-1 ,Unknown_161
+http://cms-wowza.lunabyte.io/wbrz-live-1/_definst_/smil:wbrz-live.smil/playlist.m3u8
+#EXTINF:-1 ,Unknown_162
+https://livevideo01.kiiitv.com/hls/live/2017378/newscasts/live.m3u8
+#EXTINF:-1 ,Unknown_164
+https://content.uplynk.com/2c88dfe19e1447e6a6aa27e8e143a140.m3u8
+#EXTINF:-1 ,Unknown_165
+https://livevideo01.weareiowa.com/hls/live/2011593/newscasts/live.m3u8
+#EXTINF:-1 ,Unknown_166
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-KOCO.m3u8
+#EXTINF:-1 ,Unknown_167
+https://content.uplynk.com/channel/64ca339f04964a5e961c3207a7771bf1.m3u8
+#EXTINF:-1 ,Unknown_168
+https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x7_news.m3u8
+#EXTINF:-1 ,Unknown_170
+https://content.uplynk.com/40cec2bf074c40f08932da03ab4510be.m3u8
+#EXTINF:-1 ,Unknown_174
+https://csm-e-eb.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-WMUR.m3u8
+#EXTINF:-1 ,Unknown_175
+https://d3qm7vzp07vxse.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10070_fe1f5f6c-cd0b-4993-a4a4-6db66be4f313_LE/in/cmg-wftvtv-hls-v3/live.m3u8
+#EXTINF:-1 ,Unknown_180
+https://content.uplynk.com/channel/39919d3f7a074eefa8bf579214e952f9.m3u8
+#EXTINF:-1 ,Unknown_182
+https://content.uplynk.com/channel/9deaf22aaa33461f9cac22e030ed00ec.m3u8
+#EXTINF:-1 ,Unknown_185
+https://livevideo01.localmemphis.com/hls/live/2011654/newscasts/live.m3u8
+#EXTINF:-1 ,Unknown_188
+https://dai.google.com/linear/hls/event/-A9339ixSzydnZQZHd1u2A/master.m3u8
+#EXTINF:-1 ,Unknown_190
+https://p1media-americasvoice-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,Unknown_193
+http://170.178.189.66:1935/live/Stream1/playlist.m3u8
+#EXTINF:-1 ,Unknown_194
+https://tdameritrade-vizio.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_197
+http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_199
+https://bloodydisgusting-ingest-roku-us.cinedigm.com/playlist.m3u8
+#EXTINF:-1 ,Unknown_200
+https://bloomberg-quicktake-1-fi.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,Unknown_201
+https://bloomberg-bloomberg-3-br.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 ,Unknown_202
+https://bloomberg.com/media-manifest/streams/us-event.m3u8
+#EXTINF:-1 ,Unknown_203
+https://bloomberg.com/media-manifest/streams/politics.m3u8
+#EXTINF:-1 ,Unknown_204
+https://bc20d7c2a7b14dd0ae827a2e3eb99116.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_Bloomberg/playlist.m3u8
+#EXTINF:-1 ,Unknown_205
+https://bonappetit-samsung.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_207
+http://194.163.179.246/slovenci/djeciji/boomerang.m3u8
+#EXTINF:-1 ,Unknown_210
+https://csm-e-eb.csm.tubi.video/csm/live/243017997.m3u8
+#EXTINF:-1 ,Unknown_212
+https://shls-mbc1na-prod-dub.shahid.net/out/v1/84ab37e99d6e4b16b33c6600f94f6ccb/index.m3u8
+#EXTINF:-1 ,Unknown_215
+https://shls-mbc-masr-usa-prod.shahid.net/out/v1/d4fded7d5df04b88b9ea1db61d00f095/index.m3u8
+#EXTINF:-1 ,Unknown_219
+https://livecdn.fptplay.net/qnetlive/bbclifestyle_2000.stream/chunklist.m3u8
+#EXTINF:-1 ,Unknown_243
+https://vs-cmaf-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_persian_tv/pc_hd_abr_v2_akamai_dash_live.mpd
+#EXTINF:-1 ,Unknown_282
+https://a7b60a6853d843dd9105acfa8d6e74c7.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_BeanoTV/playlist.m3u8
+#EXTINF:-1 ,Unknown_283
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+#EXTINF:-1 ,Unknown_284
+https://bloomberg.com/media-manifest/streams/eu-event.m3u8
+#EXTINF:-1 ,Unknown_285
+https://rakuten-family-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_286
+https://rakuten-tvshows-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_287
+https://rakuten-spotlight-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_289
+https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
+#EXTINF:-1 ,Unknown_290
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+#EXTINF:-1 ,Unknown_292
+https://8f720e1353ce43b8babcd780fe178755.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-gb_WildBrainPresentsTeletubbies/playlist.m3u8
+#EXTINF:-1 ,Unknown_293
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+#EXTINF:-1 ,Unknown_294
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_295
+https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
+#EXTINF:-1 ,Unknown_296
+https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
+#EXTINF:-1 ,Unknown_297
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 ,Unknown_298
+https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_299
+https://c.mjh.nz/101002210222
+#EXTINF:-1 ,Unknown_300
+https://c.mjh.nz/101002210224
+#EXTINF:-1 ,Unknown_301
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-#EXTINF:-1 group-title="新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SkyNews.png",Skynews
-https://siloh.pluto.tv/lilo/production/SkyNews/master.m3u8
-#EXTINF:-1 group-title="新闻" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNNNews.png",CNN
-https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist_1280x720_3000k.m3u8
-#EXTINF:-1 ,浙江卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225744/index.m3u8
-#EXTINF:-1 ,江苏卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225702/index.m3u8
-#EXTINF:-1 ,湖南卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225745/index.m3u8
-#EXTINF:-1 ,东方卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225658/index.m3u8
-#EXTINF:-1 ,上海纪实
-http://39.134.115.163:8080/PLTV/88888910/224/3221225655/index.m3u8
-#EXTINF:-1 ,北京卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225674/index.m3u8
-#EXTINF:-1 ,北京纪实
-http://39.134.115.163:8080/PLTV/88888910/224/3221225676/index.m3u8
-#EXTINF:-1 ,深圳卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225741/index.m3u8
-#EXTINF:-1 ,广东卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
-#EXTINF:-1 ,天津卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225698/index.m3u8
-#EXTINF:-1 ,安徽卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225691/index.m3u8
-#EXTINF:-1 ,东南卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
-#EXTINF:-1 ,山东卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225697/index.m3u8
-#EXTINF:-1 ,江西卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225705/index.m3u8
-#EXTINF:-1 ,湖北卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225699/index.m3u8
-#EXTINF:-1 ,重庆卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225692/index.m3u8
-#EXTINF:-1 ,黑龙江卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225690/index.m3u8
-#EXTINF:-1 ,辽宁卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225696/index.m3u8
-#EXTINF:-1 ,河北卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225732/index.m3u8
-#EXTINF:-1 ,山西卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
-#EXTINF:-1 ,广西卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225731/index.m3u8
-#EXTINF:-1 ,吉林卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225680/index.m3u8
-#EXTINF:-1 ,云南卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225664/index.m3u8
-#EXTINF:-1 ,陕西卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
-#EXTINF:-1 ,青海卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225727/index.m3u8
-#EXTINF:-1 ,宁夏卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225726/index.m3u8
-#EXTINF:-1 ,甘肃卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225724/index.m3u8
-#EXTINF:-1 ,海南卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225722/index.m3u8
-#EXTINF:-1 ,贵州卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
-#EXTINF:-1 ,内蒙古卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225667/index.m3u8
-#EXTINF:-1 ,新疆卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225725/index.m3u8
-#EXTINF:-1 ,西藏卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225723/index.m3u8
+#EXTINF:-1 ,Unknown_302
+https://c.mjh.nz/3201026102E1
+#EXTINF:-1 ,Unknown_303
+https://c.mjh.nz/abc2
+#EXTINF:-1 ,Unknown_304
+https://d1k6kax80wecy5.cloudfront.net/RLnAKY/index.m3u8
+#EXTINF:-1 ,Unknown_305
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_306
+https://lds-timeline-samsungau.amagi.tv/playlist.m3u8
