@@ -105,7 +105,7 @@ http://39.135.138.59:18890/PLTV/88888910/224/3221225690/index.m3u8
 #EXTINF:-1 group-title="国内" tvg-logo="http://n.ysyz.top:99/buyaolian/jilin.png",吉林卫视
 http://39.135.138.58:18890/PLTV/88888888/224/3221225680/index.m3u8
 #EXTINF:-1 group-title="国内" tvg-logo="http://n.ysyz.top:99/buyaolian/shanxi.png",陕西卫视
-http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
+http://122.228.87.26:843/zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225498/index.m3u8
 #EXTINF:-1 group-title="国内" tvg-logo="http://n.ysyz.top:99/buyaolian/guizhou.png",贵州卫视
 http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
 #EXTINF:-1 group-title="国内" tvg-logo="http://n.ysyz.top:99/buyaolian/shenzhen.png",深圳卫视高清
