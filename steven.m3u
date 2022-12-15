@@ -44,9 +44,9 @@ https://fashionbox-localnow.cinedigm.com/playlist.m3u8
 #EXTINF:-1 group-title="国内" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png",CCTV1
 http://39.135.138.58:18890/PLTV/88888888/224/3221225618/index.m3u8
 #EXTINF:-1 group-title="国内" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png",CCTV2
-http://39.135.138.58:18890/PLTV/88888888/225/3221225618/index.m3u8
+http://39.135.138.60:18890/PLTV/88888910/224/3221225619/index.m3u8
 #EXTINF:-1 group-title="国内" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv3.png",CCTV3
-http://39.135.138.58:18890/PLTV/88888888/226/3221225618/index.m3u8
+http://39.135.138.60:18890/PLTV/88888910/224/3221225647/index.m3u8
 #EXTINF:-1 group-title="国内" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png",CCTV4
 http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
 #EXTINF:-1 group-title="国内" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png",CCTV4 远方的家
@@ -110,20 +110,12 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225729/index.m3u8
 http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
 #EXTINF:-1 group-title="国内" tvg-logo="http://n.ysyz.top:99/buyaolian/shenzhen.png",深圳卫视高清
 http://39.135.138.60:18890/PLTV/88888910/224/3221225741/index.m3u8
-#EXTINF:-1 ,浙江影视
-http://hw-m-l.cztv.com/channels/lantian/channel05/720p.m3u8
-#EXTINF:-1 ,浙江影视
-http://hw-m-l.cztv.com/channels/lantian/channel05/1080p.m3u8
-#EXTINF:-1 ,中视新闻 HD
-http://seb.sason.top/sc/zsxw_fhd.m3u8
-#EXTINF:-1 ,中天新闻
-http://seb.sason.top/sc/ztxw_fhd.m3u8
-#EXTINF:-1 ,黑莓电影
+#EXTINF:-1 group-title="港台" tvg-logo="http://n.ysyz.top:99/buyaolian/heimei.png",黑莓电影
 http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
-#EXTINF:-1 ,黑莓电影
-http://39.135.138.58:18890/PLTV/88888888/224/3221225764/index.m3u8
-#EXTINF:-1 ,黑莓电影
-http://39.135.138.58:18890/PLTV/88888888/224/3221225769/index.m3u8
+#EXTINF:-1 group-title="港台" tvg-logo="http://n.ysyz.top:99/buyaolian/zhongshixw.png",中视新闻 HD
+http://seb.sason.top/sc/zsxw_fhd.m3u8
+#EXTINF:-1 group-title="港台" tvg-logo="http://n.ysyz.top:99/buyaolian/zhongtianxw.png",中天新闻
+http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 group-title="港台" tvg-logo="http://n.ysyz.top:99/buyaolian/zhongtianzh.png",中天综合
 http://23.237.10.66:16372
 #EXTINF:-1 group-title="港台" tvg-logo="http://n.ysyz.top:99/buyaolian/fenghuangzixun.png",凤凰资讯
