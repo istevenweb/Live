@@ -42,11 +42,11 @@ https://fashiontv-fashiontv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Nature4K" tvg-logo="https://s1.ax1x.com/2022/04/14/L1GDP0.png",FashionBox FHD
 https://fashionbox-localnow.cinedigm.com/playlist.m3u8
 #EXTINF:-1 group-title="国内" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png",CCTV1
-http://39.135.138.60:18890/PLTV/88888910/224/3221225638/index.m3u8
+http://183.207.255.207/live/program/live/cctv1hd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="国内" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png",CCTV2
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]
 #EXTINF:-1 group-title="国内" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv3.png",CCTV3
-http://hls.ye23.vip/hls/cctv3hd.m3u8
+http://183.207.255.207/live/program/live/cctv3hd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="国内" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png",CCTV4
 http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
 #EXTINF:-1 group-title="国内" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png",CCTV4 远方的家
@@ -56,15 +56,15 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 #EXTINF:-1 group-title="国内" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv6.png",CCTV6
 http://183.207.255.207/live/program/live/cctv6hd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="国内" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv7.png",CCTV7
-http://hls.ye23.vip/hls/cctv7hd.m3u8
+http://183.207.255.207/live/program/live/cctv7hd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="国内" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv8.png",CCTV8
-http://hls.ye23.vip/hls/cctv8hd.m3u8
+http://183.207.255.207/live/program/live/cctv8hd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="国内" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv8.png",CCTV8 8K
 http://39.135.138.60:18890/PLTV/88888910/224/3221225635/index.m3u8
 #EXTINF:-1 group-title="国内" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv9.png",CCTV9
-http://111.59.63.32:9901/tsfile/live/1016_1.m3u8
+http://183.207.255.207/live/program/live/cctv9hd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="国内" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv10.png",CCTV10
-http://hls.ye23.vip/hls/cctv10hd.m3u8
+http://183.207.255.207/live/program/live/cctv10hd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="国内" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv11.png",CCTV11
 http://111.59.63.32:9901/tsfile/live/1018_1.m3u8
 #EXTINF:-1 group-title="国内" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv12.png",CCTV12
@@ -72,9 +72,9 @@ http://111.59.63.32:9901/tsfile/live/1019_1.m3u8
 #EXTINF:-1 group-title="国内" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv13.png",CCTV13
 http://39.135.138.58:18890/TVOD/88888888/224/3221225638/index.m3u8
 #EXTINF:-1 group-title="国内" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv14.png",CCTV14
-http://hls.ye23.vip/hls/cctv14hd.m3u8
+http://183.207.255.207/live/program/live/cctv14hd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="国内" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv16.png",CCTV16
-http://hls.ye23.vip/hls/cctv16hd.m3u8
+http://183.207.255.207/live/program/live/cctv16hd/4000000/mnf.m3u8
 #EXTINF:-1 group-title="国内" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv17.png",CCTV17
 http://39.135.138.58:18890/TVOD/88888888/224/3221225907/index.m3u8
 #EXTINF:-1 group-title="国内" tvg-logo="http://n.ysyz.top:99/buyaolian/zhejiang.png",浙江卫视
