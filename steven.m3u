@@ -120,6 +120,16 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225728/index.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225741/index.m3u8
 #EXTINF:-1 group-title="港台" tvg-logo="http://n.ysyz.top:99/buyaolian/heimei.png",黑莓电影
 http://39.135.138.58:18890/PLTV/88888888/224/3221225718/index.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png",寰宇新闻
+https://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png",TVBS新闻台
+http://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
+#EXTINF:-1 tvg-name="幸福空间居家台" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/gstv.png" group-title="臺灣 🇹🇼️丨ladder",幸福空间居家台
+https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/gstv.m3u8
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="臺灣 🇹🇼️丨ladder",三立LIVE新闻
+https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
+#EXTINF:-1 tvg-id="6030" tvg-name="华视" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png" group-title="臺灣 🇹🇼️丨ladder",华视
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 #EXTINF:-1 group-title="港台" tvg-logo="http://n.ysyz.top:99/buyaolian/zhongshixw.png",中视新闻 HD
 http://seb.sason.top/sc/zsxw_fhd.m3u8
 #EXTINF:-1 group-title="港台" tvg-logo="http://n.ysyz.top:99/buyaolian/zhongtianxw.png",中天新闻
