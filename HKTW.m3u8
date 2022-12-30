@@ -1,0 +1,231 @@
+#EXTM3U
+#EXTINF:-1 group-title="港澳 🇭🇰️🇲🇴️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/fenghuangzixun.png",凤凰卫视资讯台
+http://playtv-live.ifeng.com/live/06OLEEWQKN4_tv1.m3u8
+#EXTINF:-1 group-title="港澳 🇭🇰️🇲🇴️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/hks.png",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="港澳 🇭🇰️🇲🇴️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/youxianxinwen.png",有线新闻
+http://61.10.2.140:80/live_freedirect/freehd209_h.live/chunklist_w135209556.m3u8
+#EXTINF:-1 group-title="港澳 🇭🇰️🇲🇴️",凤凰香港
+http://gxfrg007.8800.org:8282/tsfile/live/1065_1.m3u8
+#EXTINF:-1 group-title="港澳 🇭🇰️🇲🇴️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",TVB翡翠华丽
+http://23.237.10.66:16410
+#EXTINF:-1 group-title="港澳 🇭🇰️🇲🇴️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVB翡翠台.png",翡翠台
+http://23.237.10.66:16106
+#EXTINF:-1 group-title="港澳 🇭🇰️🇲🇴️",澳门莲花
+http://anren.live/HK/BiIOU11uLA.m3u8?zgangd&&&$1920x1080
+#EXTINF:-1 group-title="港澳 🇭🇰️🇲🇴️",RTHK31
+https://rthktv31-live.akamaized.net/hls/live/2036818/RTHKTV31/master.m3u8
+#EXTINF:-1 group-title="港澳 🇭🇰️🇲🇴️",RTHK32
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png",民视新闻
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png",民视新闻台
+https://epg.pm/stream/c4e4884645d94d0d2e76e47c691546493b7031348b663eb9a67769b0096f8b7e.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png",台视新闻台
+http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/tlc.png",TLC旅游生活频道
+http://198.16.64.10:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
+#EXTINF:-1 group-title="臺灣 🇹🇼️",好消息電視台1
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png",民视新闻台
+http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTV.png",民视无线台
+http://23.237.10.66:16334
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="https://epg.112114.xyz/logo/台视新闻台.png",台视新闻
+https://epg.pm/stream/dc6941ad1ea0592ef8189f4315353b7de9f8a1d5574caa04298de9f154c2f46d.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="https://www.lyngsat.com/logo/tv/aa/asia_travel_tv.png",亚洲旅游
+http://50.7.220.74:8278/asiatravel_twn/playlist.m3u8?ct=19225&tid=MF2F4967516549675165&tsum=3b56404a8f861c7fef6ac79a798e4a8c
+#EXTINF:-1 group-title="臺灣 🇹🇼️",原住民
+http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️",TVBS新闻
+http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️",TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️",唯心電視
+http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️",好消息電視台2
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️",东森新闻美国
+http://38.64.72.148:80/hls/modn/list/2015/chunklist0.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png",民视新闻台
+http://www.336699.live:1935/blockfour/litv-ftv13.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="https://www.publicdiplomacycouncil.org/wp-content/uploads/2020/05/voa-logo.png",美國之音
+http://www.336699.live:1935/blockfour/litv-ftv03.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png",TVBS新闻台
+http://pull-l3-cny.douyincdn.com/live/e6b6ef594c30eb3f3de0fa4ba0ce86e6.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png",寰宇新闻
+https://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS%E6%96%B0%E9%97%BB.png",TVBS新闻台
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86.png",台视
+http://23.237.10.66:16344
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/HBO.png",HBO
+http://hpull.kktv8.com/livekktv/128600025/playlist.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️",中天新闻台
+http://2022.stream-link.org/playlist/cti_news
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png",中视新闻
+http://2022.stream-link.org/playlist/ctv_news
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E5%8F%B0%E8%A7%86%E6%96%B0%E9%97%BB.png",台视新闻台
+http://2022.stream-link.org/playlist/ttv_news
+#EXTINF:-1 group-title="臺灣 🇹🇼️",華視新聞
+http://stream.dsichannel.com:80/hls/cts-news.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTV.png",民视频道
+http://www.336699.live:1935/blockfour/4gtv-4gtv002.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/%E4%B8%AD%E8%A7%86%E6%96%B0%E9%97%BB.png",中视新闻
+http://www.336699.live:1935/blockfour/4gtv-4gtv074.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png",寰宇新闻
+http://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png",华视新闻资讯
+http://www.336699.live:1935/blockfour/4gtv-4gtv052.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ftv-taiwan.png",民视台湾台
+http://www.336699.live:1935/blockfour/4gtv-4gtv001.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️",民视第一台
+http://www.336699.live:1935/blockfour/4gtv-4gtv003.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️",民视综艺台
+http://www.336699.live:1935/blockfour/4gtv-4gtv004.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️",智林体育台
+http://www.336699.live:1935/blockfour/4gtv-4gtv101.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️",TVBS
+http://www.336699.live:1935/blockfour/4gtv-4gtv073.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️",CHY电影台
+http://www.336699.live:1935/blockfour/4gtv-4gtv076.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️",HITS
+http://www.336699.live:1935/blockfour/4gtv-4gtv082.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️",GinX
+http://www.336699.live:1935/blockfour/4gtv-4gtv053.stream/playlist.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️",好莱坞电影
+https://pull-l3-cny.douyincdn.com/live/06027cd7cadf310982fe67221578515b.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️",卫视卡式台
+https://d1--cn-gotcha204.bilivideo.com/live-bvc/792068/live_372775317_46465575/index.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️",GoodTV 经典音乐
+https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch6-2.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️",GoodTV 爱旅行台
+https://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch11-2.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder",CTN
+http://58.99.33.16:1935/liveedge17/live_853_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder",美丽人生购物台
+http://58.99.33.16:1935/liveedge17/live_070_3.stream/chunklist.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png",中视新闻
+https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/CTVNews.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETNews.png",三立新闻
+https://raw.githubusercontent.com/etag2000/IPTV/YTlive/setlive.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png",三立inews新闻
+https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/SETiLiveNews.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png",寰宇新闻
+https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/hyxw.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png",东森新闻台
+https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/EBCNews.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png",东森财经新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCYoYoTV.png",东森幼幼台
+https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/ebcyoyo.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png",TVBS
+https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/TVBS.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/gstv.png",幸福空间居家台
+https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/gstv.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder",The K-POP
+https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/KPOP.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder",K-POP LIVE STREAMING
+https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/KPOPLive.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder",网路流行音乐电台
+https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/Music24.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder",2021华语流行歌曲
+https://raw.githubusercontent.com/StanleyChen0924/Myself/YTlive/KKBOX21.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png",台视新闻台
+http://seb.sason.top/sc/tsxw_fhd.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png",三立inews新闻
+http://seb.sason.top/sc/slinews_fhd.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png",东森新闻台
+http://seb.sason.top/sc/dsxw_fhd.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png",东森财经新闻台
+http://seb.sason.top/sc/dscjxw_fhd.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder",中天新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png",民视新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png",寰宇新闻
+https://raw.githubusercontent.com/etag2000/IPTV/YTlive/hyxw.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png",台视新闻台
+https://raw.githubusercontent.com/etag2000/IPTV/YTlive/ttvnews.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SETInews.png",三立inews新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/GlobalNews.png",寰宇新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder",momo购物一台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder",momo购物二台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/DW.png",DW
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/中视新闻.png",中视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CTS.png",华视
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png",ChannelNewsAsia
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV16.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder",东森购物3台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV18.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder",东森购物2台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV19.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png",东森新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV20.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder",中天新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder",新唐人亚太台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/abcaus.png",ABC News
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/台视新闻.png",台视新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS.png",TVBS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV35.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/TVBS新闻.png",TVBS新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV36.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/france24.png",france24
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV38.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/CNBC.png",CNBCHongKong
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV39.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/UniqueNews.png",非凡新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV41.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/BloombergTV.png",Bloomberg Quicktake
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV44.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCNews.png",东森新闻4K
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV45.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/EBCFinancialNews.png",东森财经新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV46.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/channelnewsasia.png",ChannelNewsAsia
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV52.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder",HTB北海道ニュース
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV53.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder",美好购物1台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV54.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder",美好购物2台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV55.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder",国会频道2
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV57.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/SinJiTVHD.png",信吉电视台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV58.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/aljazeera.png",aljazeera
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV59.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/ArirangTV.png",ArirangTV
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV60.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder",东京浅草
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV62.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder",镜新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder",中文音乐
+https://raw.githubusercontent.com/etag2000/IPTV/YTlive/cpop.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder",2021华语流行歌曲
+https://git.io/JgYR5
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder",空中英语
+https://raw.githubusercontent.com/etag2000/IPTV/YTlive/nbc2.m3u8
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder",LiveABC互动英语
+http://for40255.sytes.net:8099/tv/iptv/live_4gtv.php?vid=4gtv-live030&nid=188
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder",ELTV生活英语
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=litv-longturn20&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder",亚洲旅游
+https://stream.naihe.cf/api/v2/channel2.m3u8?fid=litv-longturn17&hd=1080&host=https://4gtvfreepc-cds.cdn.hinet.net
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png",民视新闻台
+https://git.io/JgkAb
+#EXTINF:-1 group-title="臺灣 🇹🇼️丨ladder" tvg-logo="http://epg.51zmt.top:8000/tb1/gt/FTVNews.png",民视新闻台
+https://raw.github.com/SSM0415/apptest/YTlive/FTVnnews.m3u8
