@@ -58,7 +58,7 @@ http://39.135.138.60:18890/PLTV/88888910/224/3221225647/index.m3u8
 #EXTINF:-1 group-title="国内" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png",CCTV4
 http://39.135.138.60:18890/PLTV/88888910/224/3221225621/index.m3u8
 #EXTINF:-1 group-title="国内" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv4.png",CCTV4 远方的家
-http://hls.cntv.kcdnvip.com/asp/hls/4000/0303000a/3/default/162d7e29c3da4aab82ad47b6e2d9e7b4/4000.m3u8
+http://bytedance.live.cqccn.com/__cl/cg:live/__c/cctv4HD/__op/default/__f//index.m3u8
 #EXTINF:-1 group-title="国内" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv5.png",CCTV5
 http://39.135.138.60:18890/PLTV/88888910/224/3221225649/index.m3u8
 http://39.135.138.60:18890/PLTV/88888910/224/3221225622/index.m3u8
