@@ -115,6 +115,10 @@ http://pull-l3-cny.douyincdn.com/live/7898d38d54c60879ba96a1fa42edbd53.m3u8
 http://pull-l3-cny.douyincdn.com/live/37e4951f0608d79a74ebed4ab2da462a.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="https://epg.112114.xyz/logo/寰宇新闻台.png",寰宇新闻台
 http://pull-l3-cny.douyincdn.com/live/a9e3982a798d13ba350075af6cff4119.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png",凤凰中文
+http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
+#EXTINF:-1 group-title="香港" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png",凤凰资讯
+http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="https://epg.112114.xyz/logo/TVB",TVB华丽台
 http://pull-l3-cny.douyincdn.com/live/8f0f5b53f8ad921929fc9ac8771cbd82.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="https://epg.112114.xyz/logo/TVB",翡翠台
@@ -123,12 +127,6 @@ http://pull-l3-cny.douyincdn.com/live/1f41fa6570c0c2fe39fef0752f76de81.m3u8
 http://pull-l3-cny.douyincdn.com/live/81c6196a626a87b4bc7a81d032b0bf7f.m3u8
 #EXTINF:-1 group-title="香港" tvg-logo="https://epg.112114.xyz/logo/有线直播台",有线直播台
 http://pull-l3-cny.douyincdn.com/live/1696778d64f00f3f9c0aefe3b2136ffe.m3u8
-#EXTINF:-1 group-title="香港" tvg-logo="https://epg.112114.xyz/logo/有线新闻台",有线新闻台
-http://pull-l3-cny.douyincdn.com/live/3ce3ba86a40b1b2055eeda4f8cf6517e.m3u8
-#EXTINF:-1 group-title="香港" tvg-logo="https://epg.112114.xyz/logo/凤凰资讯.png",凤凰资讯
-http://play-live.ifeng.com/live/06OLEEWQKN4.m3u8
-#EXTINF:-1 group-title="香港" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png",凤凰中文
-http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 #EXTINF:-1 group-title="新加坡" tvg-logo="https://epg.112114.xyz/logo/mediacorp.png",mediacorp
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
 #EXTINF:-1 group-title="韩国" tvg-logo="https://epg.112114.xyz/logo/KBS1 HD.png",KBS1 HD
