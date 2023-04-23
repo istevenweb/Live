@@ -121,6 +121,8 @@ http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 https://epg.pw/stream/fca113becfb9f93e367efdb7568570118c3e235090af855ef1765906e3aab696.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="https://epg.112114.xyz/logo/三立都会台.png",三立都会台
 https://epg.pw/stream/be38f112f8b52bcaa1b05b9665f03285ee2c7cc21e6e4147597d19452a5e92ce.m3u8
+#EXTINF:-1 group-title="台湾" tvg-logo="https://epg.112114.xyz/logo/中天亚洲台.png",中天亚洲台
+https://epg.pw/stream/09a4d5b1fb36c5a6cab219688d4748270e856166ea28991db0bc492180ddda13.ctv
 
 #EXTINF:-1 group-title="电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png",CHC高清电影
 http://y3y4.f3322.net:9901/hls/9/index.m3u8
