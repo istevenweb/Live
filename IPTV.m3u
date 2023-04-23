@@ -123,6 +123,10 @@ https://epg.pw/stream/fca113becfb9f93e367efdb7568570118c3e235090af855ef1765906e3
 https://epg.pw/stream/be38f112f8b52bcaa1b05b9665f03285ee2c7cc21e6e4147597d19452a5e92ce.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="https://epg.112114.xyz/logo/中天亚洲台.png",中天亚洲台
 https://epg.pw/stream/09a4d5b1fb36c5a6cab219688d4748270e856166ea28991db0bc492180ddda13.ctv
+#EXTINF:-1 group-title="台湾" tvg-logo="https://epg.112114.xyz/logo/好莱坞电影台.png",好莱坞电影台
+https://epg.pw/stream/7b0bb889a7f584a42dd9ce7a6789fd2395fc003e4161a94ce7628e1451bcbb37.m3u8
+#EXTINF:-1 group-title="台湾" tvg-logo="https://epg.112114.xyz/logo/星衛hd電影.png",星衛hd電影
+https://epg.pw/stream/1bf9638d6bc49d69c1594cda2ca99b3d88894573ae1c4ca205aed691f8014c17.m3u8
 
 #EXTINF:-1 group-title="电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png",CHC高清电影
 http://y3y4.f3322.net:9901/hls/9/index.m3u8
