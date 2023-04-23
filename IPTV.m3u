@@ -127,6 +127,12 @@ https://epg.pw/stream/09a4d5b1fb36c5a6cab219688d4748270e856166ea28991db0bc492180
 https://epg.pw/stream/7b0bb889a7f584a42dd9ce7a6789fd2395fc003e4161a94ce7628e1451bcbb37.m3u8
 #EXTINF:-1 group-title="台湾" tvg-logo="https://epg.112114.xyz/logo/星衛hd電影.png",星衛hd電影
 https://epg.pw/stream/1bf9638d6bc49d69c1594cda2ca99b3d88894573ae1c4ca205aed691f8014c17.m3u8
+#EXTINF:-1 group-title="台湾" tvg-logo="https://epg.112114.xyz/logo/東森洋片.png",東森洋片
+https://epg.pw/stream/14af636af973e997aa0061d2c104fe886e88eac825e73a5eb2314e4b5893ef5f.m3u8
+#EXTINF:-1 group-title="台湾" tvg-logo="https://epg.112114.xyz/logo/東森电影.png",東森電影
+https://epg.pw/stream/121d36ffc5518e6cddee677dc351c705727246d95f7c41328acfa3c76d09a4e2.m3u8
+#EXTINF:-1 group-title="台湾" tvg-logo="https://epg.112114.xyz/logo/龍華戲劇.png",龍華戲劇
+https://epg.pw/stream/1ed42eebce055fad15cf86491f319c4e0a868a89ca653c80345bbc1e7ec9b28a.m3u8
 
 #EXTINF:-1 group-title="电影" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png",CHC高清电影
 http://y3y4.f3322.net:9901/hls/9/index.m3u8
